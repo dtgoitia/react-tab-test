@@ -1,5 +1,5 @@
 {
-  "name": "react-project-template",
+  "name": "react-tab-test",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dtgoitia/react-project-template.git"
+    "url": "git+https://github.com/dtgoitia/react-tab-test.git"
   },
   "keywords": [
     "react",
@@ -24,9 +24,9 @@
   "author": "dtgoitia",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dtgoitia/react-project-template/issues"
+    "url": "https://github.com/dtgoitia/react-tab-test/issues"
   },
-  "homepage": "https://github.com/dtgoitia/react-project-template#readme",
+  "homepage": "https://github.com/dtgoitia/react-tab-test#readme",
   "dependencies": {
     "react": "^15.6.1",
     "react-dom": "^15.6.1"
